@@ -81,12 +81,12 @@ footer {
     background-color: rgba(57, 149, 57);
 }
 
-#footer ul.listunstyled li a{
+#footer ul.list-unstyled li a{
     color: #ffffff;
     text-decoration: none;
 }
 
-#footer ul.listunstyled li:hover a{
+#footer ul.list-unstyled li:hover a{
     color:rgba(8, 47, 8);
 }
 
